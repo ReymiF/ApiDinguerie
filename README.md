@@ -1,0 +1,2 @@
+# ApiDinguerie
+Dinguerie generator
